@@ -1,0 +1,38 @@
+.resume-preview {
+  width: 800px;
+  background: #fff;
+  padding: 30px;
+  border: 1px solid #ccc;
+  margin: 20px auto;
+  border-radius: 8px;
+}
+
+.resume-preview h1 {
+  font-size: 28px;
+  color: #007bff;
+}
+
+.resume-preview h3 {
+  margin-top: 20px;
+  font-size: 20px;
+  border-bottom: 2px solid #007bff;
+  padding-bottom: 4px;
+}
+
+.resume-preview ul {
+  padding-left: 20px;
+}
+
+.resume-preview button {
+  margin-top: 20px;
+  padding: 10px 16px;
+  background: #28a745;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.resume-preview button:hover {
+  background: #1c7430;
+}
